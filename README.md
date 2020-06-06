@@ -1,2 +1,2 @@
 # chip8
-Emulador chip8 (space invaders) em GO
+Emulador chip8 em GO
